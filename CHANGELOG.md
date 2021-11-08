@@ -1,3 +1,10 @@
+### [1.0.1](https://github.com/0-vortex/open-sauced-conventional-commit-test/compare/v1.0.0...v1.0.1) (2021-11-08)
+
+
+### Continuous Integration
+
+* correct npm release package name ([beca881](https://github.com/0-vortex/open-sauced-conventional-commit-test/commit/beca8816f48523cc545694d24ba5385d46bf4fe2))
+
 ## 1.0.0 (2021-11-08)
 
 
