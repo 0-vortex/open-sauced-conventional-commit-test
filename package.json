@@ -1,5 +1,5 @@
 {
-  "name": "@open-sauced/conventional-commit",
+  "name": "@0-vortex/open-sauced-conventional-commit-test",
   "version": "0.0.0",
   "license": "MIT",
   "bin": {
@@ -11,10 +11,10 @@
     "node": ">=14",
     "npm": ">=6"
   },
-  "bugs": "https://github.com/open-sauced/conventional-commit/issues",
+  "bugs": "https://github.com/0-vortex/open-sauced-conventional-commit-test/issues",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/open-sauced/conventional-commit.git"
+    "url": "git+ssh://git@github.com/0-vortex/open-sauced-conventional-commit-test.git"
   },
   "dependencies": {
     "commitizen": "^4.2.4",
