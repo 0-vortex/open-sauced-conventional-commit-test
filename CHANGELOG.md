@@ -1,3 +1,10 @@
+### [1.0.3](https://github.com/0-vortex/open-sauced-conventional-commit-test/compare/v1.0.2...v1.0.3) (2021-11-08)
+
+
+### Bug Fixes
+
+* proper proper proper fix ([defe705](https://github.com/0-vortex/open-sauced-conventional-commit-test/commit/defe70574af7b310b003c0d9f55ac1a09510d27c))
+
 ### [1.0.2](https://github.com/0-vortex/open-sauced-conventional-commit-test/compare/v1.0.1...v1.0.2) (2021-11-08)
 
 
