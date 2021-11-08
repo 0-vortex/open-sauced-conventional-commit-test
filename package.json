@@ -21,7 +21,7 @@
     "cz-conventional-changelog": "^3.3.0"
   },
   "scripts": {
-    "push": "node .",
+    "push": "npx cz",
     "semantic-release": "npx semantic-release",
     "test": "node ."
   },
